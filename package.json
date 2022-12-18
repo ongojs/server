@@ -1,0 +1,32 @@
+{
+  "name": "@ongojs/server",
+  "version": "0.0.0",
+  "description": "server",
+  "main": "index.js",
+  "bin": {
+    "server": "bin/index.js"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongojs/server.git"
+  },
+  "keywords": [
+    "server",
+    "net",
+    "eventEmitter"
+  ],
+  "author": "Ericson S. Weah <ericson.weah@gmail.com> (https://www.ericsonweah.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ongojs/server/issues"
+  },
+  "homepage": "https://github.com/ongojs/server#readme"
+}
